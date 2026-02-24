@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/S8Ons8k.png" height="80%" width="80%" />
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation](https://github.com/stevenbealle/TorBrowserIncidentCreation)
+- [Scenario Creation](https://github.com/stevenjbit/Tor-Browser-Incident-Creation)
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
